@@ -1,0 +1,24 @@
+CHANGE BY VARSHIK
+
+CLAN :==>
+
+	1) clan filter by startwith
+	2) clan name with asc and desc sorting
+	3) show the clan id
+	4) add new clan solve problem through reloade function
+
+MEMBER :==>
+	
+	1) member filter
+	2) member name with asc and desc sorting
+
+PAYMENT HISTORY :==>
+	
+	1) payment history filter
+	2) member name with asc and desc sorting
+
+LIST BY CLAN :==>
+	
+	1) full name with asc and desc sorting
+	2) show only total credit and total debit means filter by credit or debit
+	3) if you search any clan using click on search button there are two search button but one button is already exist, so i did change the have input search button
